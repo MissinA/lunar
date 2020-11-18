@@ -1,0 +1,4 @@
+[ 50%]: compiling.release lunar.cc
+C:\Users\chen\Desktop\lunar\lunar.cc(185) : warning C4715: “lua_webview_destroy”: 不是所有的控件路径都返回值
+[ 75%]: linking.release lunar.dll
+[100%]: build ok!

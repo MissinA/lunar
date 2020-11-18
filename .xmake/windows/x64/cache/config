@@ -1,0 +1,12 @@
+{
+    mtimes = {
+        ["xmake.lua"] = 1605671969
+    },
+    __version = "2.3.8",
+    options = {
+        buildir = [[c:\Users\chen\Desktop\lunar/build]],
+        mode = "release",
+        plat = "windows",
+        arch = "x86"
+    }
+}

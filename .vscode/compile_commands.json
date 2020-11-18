@@ -1,0 +1,11 @@
+[
+{
+  "directory": "C:\\Users\\chen\\Desktop\\webview-master",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe", "-c", "/EHsc", "-nologo", "-Ox", "-fp:fast", "-std:c++latest", "-Iscript", "-IE:\\env\\luajit\\include", "-DTRAY_WINAPI", "-Fobuild\\.objs\\webview\\windows\\x86\\release\\webview_lua.cc.obj", "webview_lua.cc"],
+  "file": "webview_lua.cc"
+},
+{
+  "directory": "C:\\Users\\chen\\Desktop\\webview-master",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe", "-c", "-nologo", "-Ox", "-fp:fast", "-Fobuild\\.objs\\tray_test\\windows\\x86\\release\\traytest.c.obj", "traytest.c"],
+  "file": "traytest.c"
+}]

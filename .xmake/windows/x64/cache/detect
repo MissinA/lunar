@@ -1,0 +1,26 @@
+{
+    find_programver = {
+        ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe"] = false
+    },
+    ["lib.detect.has_flags"] = {
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_AE635DC149E74C50875F03547F4CFAD0.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_FE45B58019A847608E231E5157747580.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_B1651FAB82D74F20896235A6CF653540.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx__/EHsc_-Ox -fp:fast"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cxflags_/EHsc_-std:c++20"] = false,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_A61E8FDB05D34E608E8680E998240FB0.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_3363D8B551FD425081FA85606E899680.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_60B6E74A8DA5497081C781962AFE8680.json"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cxflags_/EHsc_-std:c++latest"] = true,
+        ["windows_x86_C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe__cxx_cl_sourceDependencies_/EHsc_/sourceDependencies C:\\Users\\chen\\AppData\\Local\\Temp\\.xmake\\201118\\_B5F61C5157B841208D5B0C4D254E7950.json"] = true
+    },
+    __version = "2.3.8",
+    find_program = {
+        ccache = false,
+        ldc2 = false,
+        dmd = false,
+        ["cl.exe"] = [[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\cl.exe]],
+        ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX86\\x86\\cl.exe"] = [[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\cl.exe]],
+        gdc = false
+    }
+}
